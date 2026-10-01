@@ -1,233 +1,163 @@
 <div align="center">
 
-<img src="./assets/medlyn_cyberpunk_github_portrait.svg" width="100%" alt="Medlyn Jacob — Cyberpunk Developer HUD">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08000F,40:17002B,75:3B176D,100:08000F&height=170&section=header&text=MEDLYN.JACOB&fontSize=44&fontColor=F5F3FF&animation=fadeIn&fontAlignY=32" width="100%"/>
 
-<br>
+<img src="./assets/medlyn_cyberpunk_github_portrait.gif" width="220" alt="Medlyn Jacob"/>
 
-<a href="#about">ABOUT</a>
-&nbsp; ◈ &nbsp;
-<a href="#projects">WORLD</a>
-&nbsp; ◈ &nbsp;
-<a href="#experience">EXPERIENCE</a>
-&nbsp; ◈ &nbsp;
-<a href="#skills">SKILLS</a>
-&nbsp; ◈ &nbsp;
-<a href="#quest">QUEST</a>
-&nbsp; ◈ &nbsp;
-<a href="#contact">CONTACT</a>
+<h2>SOFTWARE ENGINEER</h2>
+
+<sub>AI · BACKEND · SYSTEMS</sub>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=430&lines=INITIALIZING+MEDLYN.JACOB...;BUILDING+INTELLIGENT+SYSTEMS.;AI+%2F+APIs+%2F+CLOUD.;SYSTEM+STATUS%3A+ONLINE" alt="System status"/>
+
+<br><br>
+
+<a href="https://medlynjacob.github.io/MedlynJacob/">
+<img src="https://img.shields.io/badge/PORTFOLIO_WORLD-6D28D9?style=for-the-badge&labelColor=10051A" alt="Portfolio"/>
+</a>
+
+&nbsp;
+
+<a href="https://linkedin.com/in/medlynjacob">
+<img src="https://img.shields.io/badge/LINKEDIN-10051A?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn"/>
+</a>
+
+&nbsp;
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=medlynjacob.2@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-10051A?style=for-the-badge&logo=gmail&logoColor=C4B5FD" alt="Contact"/>
+</a>
+
+<br><br>
+
+<sub>BUILD · SHIP · LEARN · REPEAT</sub>
 
 </div>
 
 ---
 
----
+<h2>01 // PORTFOLIO WORLD</h2>
 
-<a name="about"></a>
+<table>
+<tr>
 
-## ABOUT
+<td width="50%" align="center">
 
-I'm a Software Engineer and MS Computer Science student focused on
-AI, backend systems, automation, and building software that solves
-real problems.
-
-Currently exploring the intersection of intelligent systems,
-software engineering, and cloud infrastructure.
-
----
-
-<a name="projects"></a>
-
-## 🗺️ PORTFOLIO // WORLD MAP
-
-> Explore the systems, products, and ideas I've built.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10051A,50:24104A,100:6D28D9&height=55&text=◈%20MEMORAOS&fontSize=19&fontColor=F5F3FF&animation=fadeIn" width="100%"/>
 
 <br>
+
+<b>AI JOB SEARCH SYSTEM</b>
+
+<br><br>
+
+<a href="https://memoraos.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE-8B5CF6?style=flat-square&labelColor=10051A" alt="MemoraOS"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10051A,50:24104A,100:6D28D9&height=55&text=◈%20APEX&fontSize=19&fontColor=F5F3FF&animation=fadeIn" width="100%"/>
+
+<br>
+
+<b>CPU PIPELINE SIMULATOR</b>
+
+<br><br>
+
+<a href="https://github.com/MedlynJacob/APEX-CPU-Pipeline-Simulator">
+<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=flat-square&labelColor=10051A" alt="APEX source"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10051A,50:24104A,100:6D28D9&height=55&text=◈%20SIGHTMATE&fontSize=19&fontColor=F5F3FF&animation=fadeIn" width="100%"/>
+
+<br>
+
+<b>ASSISTIVE COMPUTER VISION</b>
+
+<br><br>
+
+<a href="https://lnkd.in/p/gWWSvKd3">
+<img src="https://img.shields.io/badge/PROJECT-8B5CF6?style=flat-square&labelColor=10051A" alt="SightMate"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10051A,50:24104A,100:6D28D9&height=55&text=◈%20UNIQ&fontSize=19&fontColor=F5F3FF&animation=fadeIn" width="100%"/>
+
+<br>
+
+<b>WEB PLATFORM</b>
+
+<br><br>
+
+<a href="https://uniq-intl.com/">
+<img src="https://img.shields.io/badge/LIVE-8B5CF6?style=flat-square&labelColor=10051A" alt="UNIQ"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2>02 // SKILL LOADOUT</h2>
 
 <div align="center">
 
-**🧠 AI LAB**  
-`MEMORAOS`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**⚙️ SYSTEMS CORE**  
-`APEX`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**👁️ VISION SECTOR**  
-`SIGHTMATE`
+<img src="https://skillicons.dev/icons?i=python,java,js,c,sql,powershell,aws,azure,docker,linux,git,github&theme=dark" alt="Core technologies"/>
 
 <br><br>
 
-**🌐 WEB DISTRICT**  
-`UNIQ INTERNATIONAL`
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-**🔮 UNKNOWN ZONE**  
-`NEXT QUEST`
-
-</div>
-
-<br>
-
-> **Select a destination to explore.**
-
----
-<a name="experience"></a>
-
-## 🧭 EXPERIENCE // TIMELINE
-
-> Systems I've worked on, problems I've solved, and the engineering path that brought me here.
-
-<br>
-
-### 🟣 SIGNIFY INNOVATIONS LAB // PHILIPS
-**Software Engineer · 2024 — 2025**
-
-`PYTHON` `POWERSHELL` `AZURE` `REST APIs` `SERVICENOW` `SAVINYT`
-
-Built enterprise automation and API-driven workflows across identity, access provisioning, system management, service workflows, and internal tools.
-
----
-
-### 🔵 NISSAN DIGITAL
-**Engineering & Design Systems Intern · 2023 — 2024**
-
-`PYTHON` `LLAMA 2` `AWS SAGEMAKER` `MACHINE LEARNING`
-
-Worked on LLM-powered sentiment analysis using 50K+ customer feedback entries, including prompt engineering, model experimentation, and evaluation.
-
----
-
-### 🟢 FIELD DATA TECHNOLOGIES
-**React Developer Intern · 2022 — 2023**
-
-`REACT` `JAVASCRIPT` `TAILWIND` `HTML` `CSS`
-
-Built frontend experiences as part of a small engineering team while contributing to Scrum-based development.
-
----
-
-### 🟡 NEXT // LOADING...
-
-**Software Engineer · AI / Backend / Systems**
-
-Currently building, learning, and exploring the next engineering chapter — with a focus on AI, backend systems, automation, and software that solves real problems.
-
-`2026 GRADUATE` · `OPEN TO FULL-TIME ROLES` · `WILLING TO RELOCATE`
-
-**STATUS:** `████████████████░░░░` `IN PROGRESS`
-
----
-
-<a name="skills"></a>
-
-## 🌳 SKILL SYSTEM
-
-> The tools and technologies I use to build, experiment, and ship.
-
-<br>
-
-### ⚙️ SOFTWARE ENGINEERING
-
-`Python` `Java` `JavaScript` `C` `SQL` `PowerShell`
-
-<br>
-
-### 🧠 AI / MACHINE LEARNING
-
-`Machine Learning` `LLMs` `RAG` `Prompt Engineering` `Computer Vision`
-
-<br>
-
-### 🔌 BACKEND / APIs
-
-`REST APIs` `React` `HTML` `CSS` `MySQL` `ChromaDB`
-
-<br>
-
-### ☁️ CLOUD / INFRASTRUCTURE
-
-`Azure` `AWS SageMaker` `Docker` `Linux` `Git` `GitHub`
-
-<br>
-
-### 📊 TOOLS / OBSERVABILITY
-
-`Streamlit` `Ollama` `Grafana` `Plotly` `Tableau` `Power BI`
-
----
-<a name="quest"></a>
-
-## 🎯 CURRENT QUEST // 2026
-
-> Building the next generation of projects while sharpening the systems behind them.
-
-<br>
-
-### 🧠 MEMORAOS
-
-**AI-powered career intelligence**
-
-Building an AI-driven platform for resume analysis, job matching, interview preparation, application tracking, and career insights.
-
-`AI` `RAG` `LLMs` `STREAMLIT`
-
-[VIEW PROJECT](https://github.com/MedlynJacob/MemoraOS) · [LIVE DEMO](https://memoraos.streamlit.app/)
-
----
-
-### ⚙️ SYSTEMS + CLOUD PROJECT
-
-**Exploring intelligent infrastructure**
-
-Developing a project around cloud deployment and resource optimization, with a focus on applying AI/agentic systems to real engineering infrastructure.
-
-`AGENTIC AI` `CLOUD` `DOCKER` `AUTOMATION`
-
----
-
-### 🚀 NEXT CHAPTER
-
-**Preparing for what's next**
-
-Currently pursuing opportunities where I can work across AI, backend systems, APIs, and software engineering while continuing to build things that are useful beyond the classroom.
-
-`MS CS` · `AI` · `SOFTWARE ENGINEERING` · `2026`
-
----
-
-<a name="contact"></a>
-
-## 📡 CONNECT
-
-> Find me across the network.
-
-<br>
-
-<div align="center">
-
-[**GITHUB**](https://github.com/MedlynJacob) ·
-[**LINKEDIN**](https://linkedin.com/in/medlynjacob) ·
-[**EMAIL**](mailto:medlynjacob.2@gmail.com)
+<img src="https://skillicons.dev/icons?i=pytorch,streamlit,mysql,grafana,react,html,css&theme=dark" alt="AI and development technologies"/>
 
 <br><br>
 
-`BUILD` · `LEARN` · `SHIP` · `REPEAT`
-
-<br><br>
-
-**SYSTEM STATUS:** `ONLINE`
+<sub>LLMs · RAG · Ollama · AWS SageMaker · Computer Vision · REST APIs · ChromaDB</sub>
 
 </div>
 
 ---
 
+<h2>03 // SYSTEM ACTIVITY</h2>
 
 <div align="center">
 
-`● ONLINE` &nbsp;&nbsp; `AI SYSTEMS` &nbsp;&nbsp; `BACKEND` &nbsp;&nbsp; `SYSTEMS`
+<img src="https://github-readme-stats.vercel.app/api?username=MedlynJacob&show_icons=true&hide_border=true&bg_color=090014&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&include_all_commits=true" height="155" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedlynJacob&layout=compact&hide_border=true&bg_color=090014&title_color=A78BFA&text_color=C4B5FD&langs_count=6" height="155" alt="Most used languages"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MedlynJacob&hide_border=true&background=090014&ring=6D28D9&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B7BA8" height="155" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://medlynjacob.github.io/MedlynJacob/">
+<img src="https://img.shields.io/badge/ENTER_THE_FULL_WORLD-6D28D9?style=for-the-badge&labelColor=10051A" alt="Full portfolio"/>
+</a>
+
+<br><br>
+
+<sub>END OF TRANSMISSION // MEDLYN.JACOB</sub>
 
 </div>
