@@ -3335,3 +3335,266 @@ footer a { color: var(--cyan); }
   }
 
 }
+
+/* =========================================================
+   CONNECTION
+   ========================================================= */
+
+.connection-section {
+  position: relative;
+}
+
+
+/* =========================================================
+   CONNECTION CONSOLE
+   ========================================================= */
+
+.connection-console {
+  position: relative;
+
+  display: grid;
+
+  grid-template-columns: minmax(0, 1fr) 330px;
+
+  margin-top: 45px;
+
+  overflow: hidden;
+
+  border: 1px solid rgba(0, 229, 255, 0.14);
+
+  background:
+    radial-gradient(
+      circle at 15% 50%,
+      rgba(0, 229, 255, 0.045),
+      transparent 38%
+    ),
+    linear-gradient(
+      135deg,
+      rgba(8, 18, 29, 0.96),
+      rgba(3, 7, 13, 0.98)
+    );
+
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.35),
+    inset 0 0 60px rgba(0, 229, 255, 0.015);
+}
+
+.connection-console::before {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  left: 0;
+
+  width: 28%;
+  height: 1px;
+
+  background: linear-gradient(
+    90deg,
+    #00e5ff,
+    transparent
+  );
+}
+
+
+/* =========================================================
+   MAIN
+   ========================================================= */
+
+.connection-main {
+  padding: 50px 42px;
+}
+
+.connection-status {
+  display: flex;
+
+  align-items: center;
+
+  gap: 8px;
+
+  margin-bottom: 25px;
+
+  font-family: monospace;
+
+  font-size: 7px;
+
+  letter-spacing: 0.17em;
+
+  color: rgba(0, 229, 255, 0.52);
+}
+
+.connection-status .status-dot {
+  width: 5px;
+  height: 5px;
+
+  border-radius: 50%;
+
+  background: #00e5ff;
+
+  box-shadow:
+    0 0 9px rgba(0, 229, 255, 0.8);
+}
+
+
+.connection-main h2 {
+  margin: 0;
+
+  max-width: 650px;
+
+  font-size: clamp(30px, 5vw, 58px);
+
+  line-height: 0.98;
+
+  letter-spacing: -0.03em;
+
+  color: #effcff;
+}
+
+.connection-main h2 span {
+  display: block;
+
+  color: rgba(0, 229, 255, 0.52);
+}
+
+
+.connection-copy {
+  margin: 28px 0 0;
+
+  font-family: monospace;
+
+  font-size: 9px;
+
+  line-height: 1.9;
+
+  letter-spacing: 0.17em;
+
+  color: rgba(185, 220, 224, 0.4);
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+.connection-links {
+  display: flex;
+
+  flex-direction: column;
+
+  justify-content: center;
+
+  padding: 28px;
+
+  border-left: 1px solid rgba(0, 229, 255, 0.09);
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(0, 229, 255, 0.025),
+      rgba(0, 0, 0, 0.12)
+    );
+}
+
+
+.connection-link {
+  display: grid;
+
+  grid-template-columns: 30px 1fr 25px;
+
+  align-items: center;
+
+  gap: 10px;
+
+  padding: 17px 5px;
+
+  border-bottom: 1px solid rgba(0, 229, 255, 0.07);
+
+  font-family: monospace;
+
+  font-size: 9px;
+
+  font-weight: 600;
+
+  letter-spacing: 0.14em;
+
+  color: rgba(210, 239, 242, 0.58);
+
+  text-decoration: none;
+
+  transition:
+    color 0.25s ease,
+    padding-left 0.25s ease,
+    background 0.25s ease;
+}
+
+.connection-link:first-child {
+  border-top: 1px solid rgba(0, 229, 255, 0.07);
+}
+
+
+.connection-link:hover {
+  padding-left: 12px;
+
+  color: #bdfcff;
+
+  background: rgba(0, 229, 255, 0.035);
+}
+
+
+.connection-link-id {
+  font-size: 7px;
+
+  color: rgba(0, 229, 255, 0.32);
+}
+
+
+.connection-arrow {
+  font-size: 14px;
+
+  color: rgba(0, 229, 255, 0.4);
+
+  transition:
+    transform 0.25s ease,
+    color 0.25s ease;
+}
+
+
+.connection-link:hover .connection-arrow {
+  color: #00e5ff;
+
+  transform: translateX(5px);
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 800px) {
+
+  .connection-console {
+    grid-template-columns: 1fr;
+  }
+
+  .connection-main {
+    padding: 35px 25px;
+  }
+
+  .connection-links {
+    padding: 20px 25px;
+
+    border-left: 0;
+
+    border-top: 1px solid rgba(0, 229, 255, 0.09);
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  .connection-main h2 {
+    font-size: 34px;
+  }
+
+}
