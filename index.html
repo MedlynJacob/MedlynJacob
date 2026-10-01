@@ -119,60 +119,245 @@
         </p>
       </div>
     </section>
+    
+     <section class="world-section" id="world">
 
-    <section id="world" class="section world">
-      <div class="section-index">02 / WORLD</div>
-      <div class="section-content">
-        <p class="kicker">PORTFOLIO // MAP</p>
-        <h2>Systems I've<br><em>built.</em></h2>
+  <div class="section-kicker">01 // PORTFOLIO WORLD</div>
 
-        <div class="project-grid">
-          <a class="project-card featured" href="https://github.com/MedlynJacob/MemoraOS" target="_blank" rel="noreferrer">
-            <span class="project-id">01</span>
-            <span class="project-icon">◉</span>
-            <div>
-              <p>AI LAB</p>
-              <h3>MemoraOS</h3>
-              <span>AI career intelligence · RAG · LLMs</span>
-            </div>
-            <span class="arrow">↗</span>
-          </a>
+  <div class="section-heading-row">
+    <div>
+      <h2>WORLD <span>/ MAP</span></h2>
+      <p>Systems, products, and ideas discovered across the build network.</p>
+    </div>
 
-          <a class="project-card" href="https://github.com/MedlynJacob/APEX-CPU-Pipeline-Simulator" target="_blank" rel="noreferrer">
-            <span class="project-id">02</span>
-            <span class="project-icon">◇</span>
-            <div>
-              <p>SYSTEMS CORE</p>
-              <h3>APEX</h3>
-              <span>CPU pipeline · C · architecture</span>
-            </div>
-            <span class="arrow">↗</span>
-          </a>
+    <div class="map-status">
+      <span class="status-dot"></span>
+      5 SECTORS ONLINE
+    </div>
+  </div>
 
-          <div class="project-card">
-            <span class="project-id">03</span>
-            <span class="project-icon">◎</span>
-            <div>
-              <p>VISION SECTOR</p>
-              <h3>SightMate</h3>
-              <span>Assistive computer vision · edge</span>
-            </div>
-            <span class="arrow">→</span>
-          </div>
+  <div class="world-map">
 
-          <div class="project-card">
-            <span class="project-id">04</span>
-            <span class="project-icon">△</span>
-            <div>
-              <p>WEB DISTRICT</p>
-              <h3>UNIQ</h3>
-              <span>Web experience · real-world product</span>
-            </div>
-            <span class="arrow">→</span>
-          </div>
-        </div>
+    <div class="map-grid"></div>
+    <div class="map-scan"></div>
+
+    <!-- CONNECTION ROUTES -->
+    <div class="map-route route-a"></div>
+    <div class="map-route route-b"></div>
+    <div class="map-route route-c"></div>
+    <div class="map-route route-d"></div>
+
+
+    <!-- MAP NODES -->
+
+    <div class="map-node node-memoraos">
+      <span class="node-pulse"></span>
+      <span class="node-core"></span>
+      <span class="node-label">AI LAB</span>
+    </div>
+
+    <div class="map-node node-apex">
+      <span class="node-pulse"></span>
+      <span class="node-core"></span>
+      <span class="node-label">SYSTEMS CORE</span>
+    </div>
+
+    <div class="map-node node-sightmate">
+      <span class="node-pulse"></span>
+      <span class="node-core"></span>
+      <span class="node-label">VISION SECTOR</span>
+    </div>
+
+    <div class="map-node node-uniq">
+      <span class="node-pulse"></span>
+      <span class="node-core"></span>
+      <span class="node-label">WEB DISTRICT</span>
+    </div>
+
+
+    <!-- MEMORAOS -->
+
+    <article class="world-card card-memoraos">
+
+      <div class="world-card-top">
+        <span class="sector-id">SECTOR 01</span>
+        <span class="card-status live">ONLINE</span>
       </div>
-    </section>
+
+      <div class="world-icon">◈</div>
+
+      <h3>MEMORAOS</h3>
+
+      <div class="world-type">
+        AI CAREER INTELLIGENCE
+      </div>
+
+      <p>
+        Resume analysis, job matching, interview preparation,
+        and application intelligence.
+      </p>
+
+      <div class="world-tags">
+        <span>AI</span>
+        <span>RAG</span>
+        <span>LLM</span>
+      </div>
+
+      <a
+        href="https://github.com/MedlynJacob/MemoraOS"
+        target="_blank"
+        rel="noopener"
+      >
+        ENTER SECTOR ↗
+      </a>
+
+    </article>
+
+
+    <!-- APEX -->
+
+    <article class="world-card card-apex">
+
+      <div class="world-card-top">
+        <span class="sector-id">SECTOR 02</span>
+        <span class="card-status">STABLE</span>
+      </div>
+
+      <div class="world-icon">⌁</div>
+
+      <h3>APEX</h3>
+
+      <div class="world-type">
+        SYSTEMS CORE
+      </div>
+
+      <p>
+        Out-of-order CPU pipeline simulation with register
+        renaming, ROB, speculation, and recovery.
+      </p>
+
+      <div class="world-tags">
+        <span>C</span>
+        <span>CPU</span>
+        <span>SIM</span>
+      </div>
+
+      <a
+        href="https://github.com/MedlynJacob/APEX-CPU-Pipeline-Simulator"
+        target="_blank"
+        rel="noopener"
+      >
+        ENTER SECTOR ↗
+      </a>
+
+    </article>
+
+
+    <!-- SIGHTMATE -->
+
+    <article class="world-card card-sightmate">
+
+      <div class="world-card-top">
+        <span class="sector-id">SECTOR 03</span>
+        <span class="card-status">PATENTED</span>
+      </div>
+
+      <div class="world-icon">◎</div>
+
+      <h3>SIGHTMATE</h3>
+
+      <div class="world-type">
+        VISION SECTOR
+      </div>
+
+      <p>
+        Assistive computer vision engineered for intelligent
+        edge-based interaction.
+      </p>
+
+      <div class="world-tags">
+        <span>CV</span>
+        <span>EDGE</span>
+        <span>AI</span>
+      </div>
+
+      <span class="world-link-disabled">
+        CLASSIFIED BUILD
+      </span>
+
+    </article>
+
+
+    <!-- UNIQ -->
+
+    <article class="world-card card-uniq">
+
+      <div class="world-card-top">
+        <span class="sector-id">SECTOR 04</span>
+        <span class="card-status">ARCHIVED</span>
+      </div>
+
+      <div class="world-icon">◇</div>
+
+      <h3>UNIQ</h3>
+
+      <div class="world-type">
+        WEB DISTRICT
+      </div>
+
+      <p>
+        A real-world web project built through frontend
+        engineering and collaborative delivery.
+      </p>
+
+      <div class="world-tags">
+        <span>WEB</span>
+        <span>UI</span>
+        <span>FRONTEND</span>
+      </div>
+
+      <span class="world-link-disabled">
+        FIELD RECORD
+      </span>
+
+    </article>
+
+
+    <!-- NEXT QUEST -->
+
+    <div class="unknown-zone">
+
+      <span class="lock-mark">⌑</span>
+
+      <div>
+        <strong>NEXT QUEST</strong>
+        <small>UNEXPLORED TERRITORY</small>
+      </div>
+
+      <span class="unknown-dots">···</span>
+
+    </div>
+
+
+    <!-- MAP UI -->
+
+    <div class="map-coordinates coord-a">
+      40.712 // 74.006
+    </div>
+
+    <div class="map-coordinates coord-b">
+      BUILD_NET // 026
+    </div>
+
+    <div class="map-legend">
+      <span></span> DISCOVERED
+      <i></i> UNEXPLORED
+    </div>
+
+  </div>
+
+</section>
+
 
     <section id="experience" class="section experience">
       <div class="section-index">03 / EXPERIENCE</div>
