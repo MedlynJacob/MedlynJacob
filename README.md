@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08000F,40:17002B,75:3B176D,100:08000F&height=160&section=header&text=MEDLYN.JACOB&fontSize=42&fontColor=F5F3FF&animation=fadeIn&fontAlignY=32" width="100%"/>
 
-<img src="./assets/medlyn_cyberpunk_github_portrait.gif" width="210" alt="Medlyn Jacob"/>
 
 <h2>SOFTWARE ENGINEER</h2>
 
