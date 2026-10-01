@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MedlynJacob/MedlynJacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/medlyn_cyberpunk_github_portrait.gif" width="280" alt="Medlyn Jacob">
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MEDLYN.JACOB.exe
+
+### Software Engineer · AI · Systems
+
+**Building intelligent systems that actually ship.**
+
+<br>
+
+[ ABOUT ] · [ PROJECTS ] · [ EXPERIENCE ] · [ CONTACT ]
+
+</div>
+
+---
+
+<div align="center">
+
+`● ONLINE` &nbsp;&nbsp; `AI SYSTEMS` &nbsp;&nbsp; `BACKEND` &nbsp;&nbsp; `SYSTEMS`
+
+</div>
