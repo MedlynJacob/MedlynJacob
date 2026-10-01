@@ -1080,7 +1080,70 @@ footer a { color: var(--cyan); }
 .world-link-disabled {
   color: #596474;
 }
+/* =========================================================
+   WORLD MAP // PROJECT BRANCH LINKS
+   ========================================================= */
 
+.world-card-link {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+
+  margin-top: 17px;
+  padding-top: 12px;
+
+  border-top: 1px solid rgba(0, 229, 255, 0.09);
+
+  font-family: monospace;
+
+  font-size: 7px;
+
+  font-weight: 600;
+
+  letter-spacing: 0.16em;
+
+  color: rgba(125, 235, 245, 0.58);
+
+  text-decoration: none;
+
+  transition:
+    color 0.25s ease,
+    padding-left 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.world-card-link span {
+  font-size: 12px;
+
+  transition:
+    transform 0.25s ease,
+    color 0.25s ease;
+}
+
+.world-card-link:hover {
+  color: #bdfcff;
+
+  padding-left: 4px;
+
+  border-color: rgba(0, 229, 255, 0.28);
+}
+
+.world-card-link:hover span {
+  color: #00e5ff;
+
+  transform: translateX(5px);
+}
+
+
+/* Keep SightMate visually clickable even before
+   the LinkedIn destination is added */
+
+.sightmate-link {
+  cursor: pointer;
+}
 
 /* NEXT QUEST */
 
